@@ -1,1 +1,5 @@
-console.log("Hello Git!");
+function sayHello() {
+  console.log("Hello Git!");
+}
+
+sayHello();
