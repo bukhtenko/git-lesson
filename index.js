@@ -3,4 +3,4 @@ function sayHello(name, surname) {
   // My comment
 }
 
-sayHello("Robots", "Are dreaming");
+sayHello("Robots", "are dreaming"); //text was changed
