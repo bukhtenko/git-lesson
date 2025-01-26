@@ -1,6 +1,6 @@
 function sayHello(name, surname) {
   console.log(`morning ${name} ${surname}`);
-  //New feature is needed
+  //New feature is no needed anymore
 }
 
 sayHello("Robots", "Are dreaming");
