@@ -1,5 +1,5 @@
 function sayHello(name, surname) {
-  console.log(`morning ${name} ${surname}`);
+  console.log(`Morning ${name} ${surname}`);
   //New feature is no needed anymore
 }
 
