@@ -1,6 +1,6 @@
 function sayHello(name, surname) {
   console.log(`${name} ${surname}`);
-  // My comment
+  //New feature is needed
 }
 
 sayHello("Robots", "Are dreaming");
