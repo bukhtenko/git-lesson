@@ -4,3 +4,4 @@ function sayHello(name, surname) {
 }
 
 sayHello("Robots", "Are dreaming");
+//strange comment
